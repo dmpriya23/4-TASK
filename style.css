@@ -1,0 +1,23 @@
+*{margin:0px;
+ padding:0px;
+ font-family: sans-serif;} 
+
+ .navbar-nav .nav-item .nav-link{
+  margin-left: 60px;
+ }
+
+ figure{
+  background-image: url("giphy.gif");
+  background-size: 100%;
+  background-position:center;
+  height:400px;
+ }
+ .div1 h1{
+  border-bottom:2px solid white ;
+  width:480px;
+  margin-left: 400px;
+ }
+a{
+  text-decoration: none;
+  style: none;
+}
